@@ -1,2 +1,2 @@
 # News-homepage
-Responsive News Homepage design
+Responsive News Homepage for mobile and desktop users
